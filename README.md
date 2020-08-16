@@ -1,1 +1,1 @@
-# Leetcode solution with python
+# Leetcode Practice with python
